@@ -1,7 +1,7 @@
 """
 Author: Nishant
 
-Problem : Absolute value of the integer.
+Problem : Celsius to Fahrenheit conversion.
 
 Date : 09/11/2019
 """
