@@ -39,3 +39,4 @@ if __name__ == '__main__':
         b = [int(x) for x in input().split()]
         print('Addition is: {0}'.format(add_multiply.get_addition(a)))
         print('Multiplication is: {0}'.format(add_multiply.get_multiplication(b)))
+        t -= 1
